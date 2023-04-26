@@ -1,5 +1,7 @@
 # Kubernetes with Minikube deployed with Terraform
 
+![My Image](work4.jpg)
+
 ## Prerequisites
 
 Install Kubernetes
